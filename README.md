@@ -78,8 +78,8 @@ For business cooperation, please email：marketing@odaily.email。
 If you need business cooperation, please add us on WeChat for business
 
 WeChat of our business QR code :
-<img width="291" alt="496bd829f51cda8f4c8027daf0e6b543" src="https://piccdn.0daily.com/202212/02073313/n38zo2eckiajkarj.png">
-<img width="291" alt="496bd829f51cda8f4c8027daf0e6b543" src="https://piccdn.0daily.com/202212/02073318/whh64xdbamdlspu2.png">
+<img width="100" alt="496bd829f51cda8f4c8027daf0e6b543" src="https://piccdn.0daily.com/202212/02073313/n38zo2eckiajkarj.png">
+<img width="100" alt="496bd829f51cda8f4c8027daf0e6b543" src="https://piccdn.0daily.com/202212/02073318/whh64xdbamdlspu2.png">
 
 At the same time, we also have some communities, if you are interested, you can join our community.
 
