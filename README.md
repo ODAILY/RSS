@@ -1,6 +1,6 @@
 # Odaily RSS
 
-https://api.theblockbeats.news/v1/open-api/home-xml
+https://www.odaily.news/v1/open-api/home-xml
 
 Makes it easier for you to access Web3 information via Odaily RSS subscriptions .
 
